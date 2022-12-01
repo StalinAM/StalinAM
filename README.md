@@ -12,7 +12,9 @@
     <img src="https://img.shields.io/badge/Frontend%20Mentor-informational?style=for-the-badge&logo=frontendmentor" alt="LinkedIn Badge">
   </a>
 </p>
-
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=StalinVA&style=flat-square&color=blue" alt=""/>
+</p>
 ### :man_technologist: &nbsp;About Me :
 
 Hi, I am a Front-End developer and I have a passion for software development.
