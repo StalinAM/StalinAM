@@ -1,9 +1,15 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/2mKXhjb5YUbMvW25FN/giphy.gif" width="300"  />
+  <img src="https://github.com/StalinAM/PortfolioPersonal/blob/master/src/assets/about.png" width="300"  />
 </p>
 <p align="center">
   <a href="https://www.linkedin.com/in/stalinam/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge">
+  </a>
+  <a href="https://svam.netlify.app/">
+    <img src="https://github.com/StalinAM/PortfolioPersonal/blob/master/src/assets/favicon.png" alt="LinkedIn Badge">
+  </a>
+  <a href="https://www.frontendmentor.io/profile/StalinAM">
+    <img src="https://img.shields.io/badge/Frontend%20Mentor-informational?style=for-the-badge&logo=frontendmentor" alt="LinkedIn Badge">
   </a>
 </p>
 
