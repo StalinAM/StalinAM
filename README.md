@@ -40,4 +40,4 @@ Hi, I am a Front-End developer and I have a passion for software development.
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=StalinAM&theme=dark&background=000000)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=StalinAM&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+![StalinAM GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=StalinAM&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=000000)
