@@ -16,8 +16,6 @@
   <img src="https://komarev.com/ghpvc/?username=StalinVA&style=flat-square&color=blue" alt=""/>
 </p>
 
-### :man_technologist: &nbsp;About Me :
-
 Hi, I am a Front-End developer and I have a passion for software development.
 
 ---
