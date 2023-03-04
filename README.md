@@ -3,13 +3,15 @@
 </p>
 <p align="center">
   <a href="https://www.linkedin.com/in/stalinam/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" title="linkedin" width="40" height="40" alt="LinkedIn Badge">
   </a>
+  &nbsp;
   <a href="https://svam.netlify.app/">
-    <img src="./images/logo1.png" alt="LinkedIn Badge">
+    <img src="./images/logo1.png" width="40" height="40" alt="LinkedIn Badge">
   </a>
+  &nbsp;
   <a href="https://www.frontendmentor.io/profile/StalinAM">
-    <img src="https://img.shields.io/badge/Frontend%20Mentor-informational?style=for-the-badge&logo=frontendmentor" alt="LinkedIn Badge">
+    <img src="https://seeklogo.com/images/F/frontend-mentor-logo-DD85EFE0E9-seeklogo.com.png" width="40" height="38" alt="LinkedIn Badge">
   </a>
 </p>
 <p align="center">
