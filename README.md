@@ -11,7 +11,7 @@
   </a>
   &nbsp;
   <a href="https://www.frontendmentor.io/profile/StalinAM">
-    <img src="https://seeklogo.com/images/F/frontend-mentor-logo-DD85EFE0E9-seeklogo.com.png" width="40" height="38" alt="icon of perfil frontend mentor">
+    <img src="https://www.frontendmentor.io/static/images/logo-mobile.svg" width="40" height="38" alt="icon of perfil frontend mentor">
   </a>
 </p>
 <p align="center">
