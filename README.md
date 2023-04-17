@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./images/about.png" width="300"  />
+  <img src="./images/about.png" width="250"  />
 </p>
 <p align="center">
   <a href="https://www.linkedin.com/in/stalinam/">
