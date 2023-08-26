@@ -18,7 +18,7 @@
   <img src="https://komarev.com/ghpvc/?username=StalinVA&style=flat-square&color=blue" alt=""/>
 </p>
 
-Hi, I am a Front-End developer and I have a passion for software development. 
+Hi, I am a Front-End developer and I have a passion for software development. 🧑‍💻 
 
 ---
 
