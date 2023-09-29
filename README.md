@@ -17,6 +17,9 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=StalinVA&style=flat-square&color=blue" alt=""/>
 </p>
+<p align="center">
+  <img src="/images/astro.svg" alt="icon of astro"/>
+</p>
 
 Hi, I am a Front-End developer and I have a passion for software development. 🧑‍💻 .
 
@@ -33,8 +36,8 @@ Hi, I am a Front-End developer and I have a passion for software development. �
 <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="icon Git" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" title="Next" alt="icon Next" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain.svg" title="Firebase" alt="icon firebase" width="40" height="40"/>&nbsp;
- <img src="https://github.com/devicons/devicon/blob/master/icons/rstudio/rstudio-plain.svg" title="RStudio" alt="icon RStudio" width="40" height="40"/>&nbsp;
- <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="icon Java" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/rstudio/rstudio-plain.svg" title="RStudio" alt="icon RStudio" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="icon Java" width="40" height="40"/>&nbsp;
 
 </p>
 
