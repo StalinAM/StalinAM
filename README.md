@@ -1,6 +1,7 @@
 <p align="center">
   <img src="./images/about.png" width="250"  />
 </p>
+<p align="center">Hi 🖐️ , I am a Front-End developer and I have a passion for software development. 🧑‍💻.</p>
 <p align="center">
   <a href="https://www.linkedin.com/in/stalinam/">
     <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" title="linkedin" width="40" height="40" alt="LinkedIn Badge">
@@ -17,10 +18,6 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=StalinVA&style=flat-square&color=blue" alt=""/>
 </p>
-
-Hi 🖐️ , I am a Front-End developer and I have a passion for software development. 🧑‍💻.
-
----
 
 ### 🛠 &nbsp;Languages and Tools :
 
