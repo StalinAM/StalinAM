@@ -1,7 +1,7 @@
 <p align="center">
   <img src="./images/about.png" width="250"  />
 </p>
-<p align="center">Hi 🖐️ , I am a Front-End developer and I love exploring the world of web development and experimenting with modern technologies to build intuitive and visually appealing interfaces 🧑‍💻</p>
+<p >Hi 🖐️ , I am a Front-End developer and I love exploring the world of web development and experimenting with modern technologies to build intuitive and visually appealing interfaces 🧑‍💻</p>
 <p align="center">
   <a href="https://www.linkedin.com/in/stalinam/">
     <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" title="linkedin" width="40" height="40" alt="LinkedIn Badge">
