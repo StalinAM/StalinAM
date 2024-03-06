@@ -3,13 +3,13 @@
 </p>
 <p >Hi 🖐️ , I am a Front-End developer and I love exploring the world of web development and experimenting with modern technologies to build intuitive and visually appealing interfaces 🧑‍💻.</p>
 <div align="center">
-  <a href="https://www.linkedin.com/in/stalinam/">
+  <a href="https://www.linkedin.com/in/stalinam/" target="_blank">
     <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" title="linkedin" width="40" height="40" alt="LinkedIn Badge">
   </a>
-  <a href="https://svam.netlify.app/">
+  <a href="https://svam.netlify.app/" target="_blank">
     <img src="./images/logo1.png" width="40" height="40" alt="personal website">
   </a>
-  <a href="https://www.frontendmentor.io/profile/StalinAM">
+  <a href="https://www.frontendmentor.io/profile/StalinAM" target="_blank">
     <img src="https://www.frontendmentor.io/static/images/logo-mobile.svg" width="40" height="38" alt="icon of perfil frontend mentor">
   </a>
 </div>
