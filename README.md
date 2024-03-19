@@ -41,3 +41,5 @@
 ![StalinAM GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=StalinAM&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=000000)
 
 ### Latest Projects
+## EasyMoney
+<img width=500 src="https://github.com/StalinAM/easy-money-app/blob/master/public/easy-money.png"/>
