@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="./images/about.png" width="250"  />
-</p>
 <div align="center">
   <a href="https://www.linkedin.com/in/stalinam/" target="_blank">
     <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" title="linkedin" width="40" height="40" alt="LinkedIn Badge">
