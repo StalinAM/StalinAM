@@ -31,15 +31,19 @@
 
 ---
 
-### 🔥 &nbsp; My Stats :
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=StalinAM&theme=dark&background=000000)](https://git.io/streak-stats)
-
-![StalinAM GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=StalinAM&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=000000)
-
 ### 🏆 Latest Projects
 #### 📍 EasyMoney
 
 App web de finanzas personales, diseñada para simplificar la gestión del dinero, permite llevar un seguimiento rápido y fácil de los gastos y te ayuda a ahorrar.
 
 <img width=500 src="https://github.com/StalinAM/easy-money-app/blob/master/public/easy-money.png"/>
+
+---
+
+### 🔥 &nbsp; My Stats :
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=StalinAM&theme=dark&background=000000)](https://git.io/streak-stats)
+
+![StalinAM GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=StalinAM&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=000000)
+
+
