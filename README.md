@@ -14,6 +14,8 @@
 </p>
 <p >Hi 🖐️ , I am a Front-End developer🧑‍💻 and I love exploring the world of web development and experimenting with modern technologies to build intuitive and visually appealing interfaces.</p>
 
+---
+
 ### 🛠 &nbsp;Languages and Tools :
 <p>
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
