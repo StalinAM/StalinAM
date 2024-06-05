@@ -37,7 +37,7 @@
 ### 🏆 Latest Projects
 #### 💸 EasyMoney
 
-App web de finanzas personales, diseñada para simplificar la gestión del dinero, permite llevar un seguimiento rápido y fácil de los gastos y te ayuda a ahorrar.
+App web de finanzas personales, diseñada para simplificar la gestión del dinero, permite llevar un seguimiento rápido y fácil de los gastos y te ayuda a ahorrar
 
 <img width=500 src="https://github.com/StalinAM/easy-money-app/blob/master/public/easy-money.png"/>
 
