@@ -30,7 +30,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain.svg" title="Ubuntu" alt="icon Ubuntu" width="40" height="40"/>&nbsp;
   <img src="./images/astro.svg" alt="icon Astro" title="Astro" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain-wordmark.svg" alt="icon Docker" title="Docker" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" alt="icon Docker" title="MySql" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" alt="icon Docker" title="MySql" width="40" height="40"/>
 </p>
 
 ---
