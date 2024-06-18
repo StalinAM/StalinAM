@@ -2,7 +2,7 @@
   <a href="https://www.linkedin.com/in/stalinam/" target="_blank">
     <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" title="linkedin" width="40" height="40" alt="LinkedIn Badge">
   </a>
-  <a href="https://svam.netlify.app/" target="_blank">
+  <a href="https://stalinvam.dev/" target="_blank">
     <img src="./images/logo1.png" width="40" height="40" alt="personal website">
   </a>
   <a href="https://www.frontendmentor.io/profile/StalinAM" target="_blank">
