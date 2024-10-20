@@ -35,7 +35,7 @@
 ---
 
 ### 🏆 Latest Projects
-### 💸 EasyMoney
+### EasyMoney
 
 App web de finanzas personales, diseñada para simplificar la gestión del dinero, permite llevar un seguimiento rápido y fácil de los gastos y te ayuda a ahorrar.
 
