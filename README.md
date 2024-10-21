@@ -12,7 +12,7 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=StalinVA&style=flat-square&color=blue" alt=""/>
 </p>
-<p >Hi 🖐️,I am a Front-End developer and I love exploring the world of web development and experimenting with modern technologies to build intuitive and visually appealing interfaces</p>
+<p >Hi 🖐️,I am a Front-End developer and I love exploring the world of web development and experimenting with modern technologies to build intuitive and visually appealing interfaces.</p>
 
 ---
 
