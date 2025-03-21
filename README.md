@@ -35,6 +35,14 @@
 ---
 
 ### 🏆 Latest Projects
+### Routico
+
+Routico es una aplicación web diseñada para optimizar la planificación y gestión de rutas de entrega. Permite la creación y administración de conductores, asignación de rutas personalizadas y seguimiento eficiente de las entregas.
+
+<img width=500 src="https://github.com/StalinAM/routico-web-app/blob/master/src/assets/admin.webp"/>
+
+---
+
 ### EasyMoney
 
 App web de finanzas personales, diseñada para simplificar la gestión del dinero, permite llevar un seguimiento rápido y fácil de los gastos y te ayuda a ahorrar.
