@@ -8,7 +8,7 @@
   <a href="https://www.frontendmentor.io/profile/StalinAM" target="_blank">
     <img src="https://www.frontendmentor.io/static/images/logo-mobile.svg" width="40" height="38" alt="icon of perfil frontend mentor">
   </a>
-
+</div>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=StalinVA&style=flat-square&color=blue" alt=""/>
 </p>
