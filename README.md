@@ -8,15 +8,16 @@
   <a href="https://www.frontendmentor.io/profile/StalinAM" target="_blank">
     <img src="https://www.frontendmentor.io/static/images/logo-mobile.svg" width="40" height="38" alt="icon of perfil frontend mentor">
   </a>
-</div>
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=StalinVA&style=flat-square&color=blue" alt=""/>
 </p>
-<p >Hi 🖐️,I am a Front-End developer and I love exploring the world of web development and experimenting with modern technologies to build intuitive and visually appealing interfaces.</p>
+<p >Hola 🖐️, soy desarrollador front-end y me encanta explorar el mundo del desarrollo web y experimentar con tecnologías modernas para crear interfaces intuitivas y visualmente atractivas.</p>
 
 ---
 
-### 🛠 &nbsp;Languages and Tools :
+### 🛠 &nbsp;Lenguajes y Herramientas :
+
 <p>
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
@@ -34,7 +35,8 @@
 
 ---
 
-### 🏆 Latest Projects
+### 🏆 Últimos proyectos
+
 ### Routico
 
 Routico es una aplicación web diseñada para optimizar la planificación y gestión de rutas de entrega. Permite la creación y administración de conductores, asignación de rutas personalizadas y seguimiento eficiente de las entregas.
@@ -49,12 +51,10 @@ App web de finanzas personales, diseñada para simplificar la gestión del diner
 
 <img width=500 src="https://github.com/StalinAM/easy-money-app/blob/master/public/easy-money.png"/>
 
----
+##
 
 ### 🔥 &nbsp; My Stats :
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=StalinAM&theme=dark&background=000000)](https://git.io/streak-stats)
 
 ![StalinAM GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=StalinAM&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=000000)
-
-
