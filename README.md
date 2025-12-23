@@ -1,60 +1,57 @@
 <div align="center">
-  <a href="https://www.linkedin.com/in/stalinam/" target="_blank">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" title="linkedin" width="40" height="40" alt="LinkedIn Badge">
-  </a>
-  <a href="https://stalinvam.dev/" target="_blank">
-    <img src="./images/logo1.png" width="40" height="40" alt="personal website">
-  </a>
-  <a href="https://www.frontendmentor.io/profile/StalinAM" target="_blank">
-    <img src="https://www.frontendmentor.io/static/images/logo-mobile.svg" width="40" height="38" alt="icon of perfil frontend mentor">
-  </a>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=¡Hola!%20Soy%20Stalin%20👋&fontSize=40&fontAlign=50&fontColor=fff"/>
+  <h2>Desarrollador Front-End | React | JavaScript | UX/UI</h2>
+  <a href="https://stalinvam.dev/" target="_blank"><img src="https://img.shields.io/badge/Portafolio-100000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/stalinam/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://www.frontendmentor.io/profile/StalinAM" target="_blank"><img src="https://img.shields.io/badge/Frontend_Mentor-3F54A3?style=for-the-badge&logo=frontendmentor&logoColor=white" alt="Frontend Mentor" /></a>
+  <a href="mailto:stalinvam@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </div>
+
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=StalinVA&style=flat-square&color=blue" alt=""/>
-</p>
-<p >Desarrollador Front-End especializado en React y ecosistemas modernos de JavaScript. Enfocado en crear soluciones escalables, optimización de rendimiento y experiencias de usuario intuitivas.</p>
-
----
-
-### 🛠 &nbsp;Lenguajes y Herramientas :
-
-<p>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="icon HTML" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="icon JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="icon Git" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" title="Next" alt="icon Next" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain.svg" title="Firebase" alt="icon firebase" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="icon Java" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-original.svg" title="Ubuntu" alt="icon Ubuntu" width="40" height="40"/>&nbsp;
-  <img src="./images/astro.svg" alt="icon Astro" title="Astro" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain-wordmark.svg" alt="icon Docker" title="Docker" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" alt="icon Docker" title="MySql" width="40" height="40"/>
+  <img src="https://komarev.com/ghpvc/?username=StalinVA&style=flat-square&color=blue&label=Profile+Views" alt="Profile Views"/>
 </p>
 
 ---
 
-### 🏆 Últimos proyectos
+## 🙋‍♂️ Sobre mí
 
-### Routico
-
-Routico es una aplicación web diseñada para optimizar la planificación y gestión de rutas de entrega. Permite la creación y administración de conductores, asignación de rutas personalizadas y seguimiento eficiente de las entregas.
-
-<img width=500 src="https://github.com/StalinAM/routico-web-app/blob/master/src/assets/admin.webp"/>
+Soy un apasionado desarrollador Front-End con experiencia creando productos digitales modernos y escalables. Me motiva la innovación, el aprendizaje continuo y el trabajo en equipo. Disfruto transformar ideas en experiencias digitales atractivas y funcionales.
 
 ---
 
-### EasyMoney
+### 🛠 &nbsp;Lenguajes y Herramientas
 
-App web de finanzas personales, diseñada para simplificar la gestión del dinero, permite llevar un seguimiento rápido y fácil de los gastos y te ayuda a ahorrar.
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,astro,html,css,js,ts,tailwind" /><br/>
+  <img src="https://skillicons.dev/icons?i=java,mysql,firebase,git,docker,ubuntu,vscode" />
+</div>
 
-<img width=500 src="https://github.com/StalinAM/easy-money-app/blob/master/public/easy-money.png"/>
+---
 
-##
+### 🏆 Proyectos Destacados
 
-### 🔥 &nbsp; My Stats :
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <img src="https://github.com/StalinAM/routico-web-app/blob/master/src/assets/admin.webp" width="250" alt="Routico"/>
+      <h3><a href="https://github.com/StalinAM/routico-web-app">Routico</a></h3>
+      <p>Aplicación web para optimizar la planificación y gestión de rutas de entrega. Permite crear y administrar conductores, asignar rutas personalizadas y hacer seguimiento eficiente de entregas.</p>
+      <a href="https://github.com/StalinAM/routico-web-app" target="_blank"><img src="https://img.shields.io/badge/Ver%20Código-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+    </td>
+    <td align="center" width="50%">
+      <img src="https://github.com/StalinAM/easy-money-app/blob/master/public/easy-money.png" width="250" alt="EasyMoney"/>
+      <h3><a href="https://github.com/StalinAM/easy-money-app">EasyMoney</a></h3>
+      <p>App web de finanzas personales para simplificar la gestión del dinero, permite llevar un seguimiento rápido y fácil de los gastos y te ayuda a ahorrar.</p>
+      <a href="https://github.com/StalinAM/easy-money-app" target="_blank"><img src="https://img.shields.io/badge/Ver%20Código-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+    </td>
+  </tr>
+</table>
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=StalinAM&theme=dark&background=000000)](https://git.io/streak-stats)
+---
 
-![StalinAM GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=StalinAM&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=000000)
+### 🔥 &nbsp; Estadísticas
+
+<div align="center">
+  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=StalinAM&theme=shadow-orange&locale=es&mode=weekly" alt="GitHub Streak" /></a>
+
+</div>
