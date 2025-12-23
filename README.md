@@ -12,7 +12,7 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=StalinVA&style=flat-square&color=blue" alt=""/>
 </p>
-<p >Hola 🖐️, soy desarrollador front-end y me encanta explorar el mundo del desarrollo web y experimentar con tecnologías modernas para crear interfaces intuitivas y visualmente atractivas.</p>
+<p >Desarrollador Front-End especializado en React y ecosistemas modernos de JavaScript. Enfocado en crear soluciones escalables, optimización de rendimiento y experiencias de usuario intuitivas.</p>
 
 ---
 
