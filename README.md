@@ -32,13 +32,13 @@ Soy un apasionado desarrollador Front-End con experiencia creando productos digi
 <table>
   <tr>
     <td align="center" width="50%">
-      <img src="https://github.com/StalinAM/routico-web-app/blob/master/src/assets/admin.webp" style="width:50%;min-width:150px;max-width:250px;" alt="Routico"/>
+      <img src="https://github.com/StalinAM/routico-web-app/blob/master/src/assets/admin.webp" style="width:100%;" alt="Routico"/>
       <h3><a href="https://github.com/StalinAM/routico-web-app">Routico</a></h3>
       <p>Aplicación web para optimizar la planificación y gestión de rutas de entrega. Permite crear y administrar conductores, asignar rutas personalizadas y hacer seguimiento eficiente de entregas.</p>
       <a href="https://github.com/StalinAM/routico-web-app" target="_blank"><img src="https://img.shields.io/badge/Ver%20Código-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
     </td>
     <td align="center" width="50%">
-      <img src="https://github.com/StalinAM/easy-money-app/blob/master/public/easy-money.png" style="width:50%;min-width:150px;max-width:250px;" alt="EasyMoney"/>
+      <img src="https://github.com/StalinAM/easy-money-app/blob/master/public/easy-money.png" style="width:100%;" alt="EasyMoney"/>
       <h3><a href="https://github.com/StalinAM/easy-money-app">EasyMoney</a></h3>
       <p>App web de finanzas personales para simplificar la gestión del dinero, permite llevar un seguimiento rápido y fácil de los gastos y te ayuda a ahorrar.</p>
       <a href="https://github.com/StalinAM/easy-money-app" target="_blank"><img src="https://img.shields.io/badge/Ver%20Código-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
