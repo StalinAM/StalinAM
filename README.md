@@ -1,10 +1,9 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=¡Hola!%20Soy%20Stalin%20👋&fontSize=40&fontAlign=50&fontColor=fff"/>
-  <h2>Desarrollador Front-End | React | JavaScript | UX/UI</h2>
+  <img src="./images/bg-svam.webp"/>
   <a href="https://stalinvam.dev/" target="_blank"><img src="https://img.shields.io/badge/Portafolio-100000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
   <a href="https://www.linkedin.com/in/stalinam/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://www.frontendmentor.io/profile/StalinAM" target="_blank"><img src="https://img.shields.io/badge/Frontend_Mentor-3F54A3?style=for-the-badge&logo=frontendmentor&logoColor=white" alt="Frontend Mentor" /></a>
-  <a href="mailto:stalinvam@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="mailto:sta_vla411@hotmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </div>
 
 <p align="center">
