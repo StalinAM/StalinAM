@@ -52,12 +52,12 @@ Soy un apasionado desarrollador Front-End con experiencia creando productos digi
 
 <div align="center">
   <a href="https://github.com/StalinAM">
-    <img src="https://streak-stats.demolab.com?user=StalinAM&theme=react" alt="GitHub Streak" />
-  </a>  
-</div>
-<div align="center">
-  <a href="https://github.com/StalinAM">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=StalinAM&layout=compact&langs_count=8&theme=react"/>
   </a>
 </div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=StalinAM&theme=react" alt="GitHub Streak" />
+</div>
+
 
