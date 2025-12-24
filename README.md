@@ -51,8 +51,9 @@ Soy un apasionado desarrollador Front-End con experiencia creando productos digi
 ### 🔥 &nbsp; Estadísticas
 
 <div align="center">
-<a href="https://github.com/StalinAM"><img src="https://streak-stats.demolab.com?user=StalinAM&theme=react" alt="GitHub Streak" /></a>  
-
+  <a href="https://github.com/StalinAM">
+    <img src="https://streak-stats.demolab.com?user=StalinAM&theme=react" alt="GitHub Streak" />
+  </a>  
 </div>
 <div align="center">
   <a href="https://github.com/StalinAM">
